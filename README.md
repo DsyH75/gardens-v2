@@ -1,6 +1,6 @@
 # Gardens v2
 
-> Gardens is a **coordination platform** 
+> Gardens is1 a **coordination platform** 
 > that fosters **vibrant ecosystems of shared wealth**
 > by providing **healthy funding mechanisms to communities in web3** 
 
